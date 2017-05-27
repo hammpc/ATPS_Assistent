@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bcc\.android\build-cache\2d26958df198142a7e0276cced32bf65385f1c5a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bcc\.android\build-cache\74c23d0699394668849219b5bc6d70955a87a323\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bcc\.android\build-cache\6123aa04fd7892329c34a36184120365120c2727\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bcc\.android\build-cache\4283e838848498ed886e632e70bcc1c7ac7a3e99\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bcc\.android\build-cache\5fdf4bc4daafdfc7939b60111dc18756a0fe0c56\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bcc\.android\build-cache\574763ceef0227289479a6beea1960bca825410f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bcc\.android\build-cache\3c7c61e5c3a59e822988a377871bdc7c0290f62d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bcc\.android\build-cache\6daf272f296eb515d3c4474a489358993770fe5a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bcc\.android\build-cache\d1ea61922c404f7035cdfd03679e788bef386ced\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bcc\.android\build-cache\4215395d546f18b4dc6bb95fb95e0bf995877181\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:11:9-40
+activity#nl.avans.mm.atps_assistent.MainActivity
+ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bcc\.android\build-cache\2d26958df198142a7e0276cced32bf65385f1c5a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bcc\.android\build-cache\74c23d0699394668849219b5bc6d70955a87a323\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bcc\.android\build-cache\6123aa04fd7892329c34a36184120365120c2727\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bcc\.android\build-cache\4283e838848498ed886e632e70bcc1c7ac7a3e99\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bcc\.android\build-cache\5fdf4bc4daafdfc7939b60111dc18756a0fe0c56\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bcc\.android\build-cache\574763ceef0227289479a6beea1960bca825410f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bcc\.android\build-cache\3c7c61e5c3a59e822988a377871bdc7c0290f62d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bcc\.android\build-cache\6daf272f296eb515d3c4474a489358993770fe5a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bcc\.android\build-cache\d1ea61922c404f7035cdfd03679e788bef386ced\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bcc\.android\build-cache\4215395d546f18b4dc6bb95fb95e0bf995877181\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bcc\.android\build-cache\2d26958df198142a7e0276cced32bf65385f1c5a\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\android\ATPS_Assistent\ATPS_Assistent\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bcc\.android\build-cache\2d26958df198142a7e0276cced32bf65385f1c5a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\bcc\.android\build-cache\74c23d0699394668849219b5bc6d70955a87a323\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\bcc\.android\build-cache\6123aa04fd7892329c34a36184120365120c2727\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\bcc\.android\build-cache\4283e838848498ed886e632e70bcc1c7ac7a3e99\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\bcc\.android\build-cache\5fdf4bc4daafdfc7939b60111dc18756a0fe0c56\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\bcc\.android\build-cache\574763ceef0227289479a6beea1960bca825410f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\bcc\.android\build-cache\3c7c61e5c3a59e822988a377871bdc7c0290f62d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\bcc\.android\build-cache\6daf272f296eb515d3c4474a489358993770fe5a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\bcc\.android\build-cache\d1ea61922c404f7035cdfd03679e788bef386ced\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bcc\.android\build-cache\2d26958df198142a7e0276cced32bf65385f1c5a\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\bcc\.android\build-cache\2d26958df198142a7e0276cced32bf65385f1c5a\output\AndroidManifest.xml:26:9-47

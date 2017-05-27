@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\dev\\android\\ATPS_Assistent\\ATPS_Assistent\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\bcc\\.android\\build-cache\\2d26958df198142a7e0276cced32bf65385f1c5a\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\dev\\android\\ATPS_Assistent\\ATPS_Assistent\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\bcc\\.android\\build-cache\\2d26958df198142a7e0276cced32bf65385f1c5a\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\dev\\android\\ATPS_Assistent\\ATPS_Assistent\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\bcc\\.android\\build-cache\\2d26958df198142a7e0276cced32bf65385f1c5a\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\dev\\android\\ATPS_Assistent\\ATPS_Assistent\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\bcc\\.android\\build-cache\\2d26958df198142a7e0276cced32bf65385f1c5a\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
